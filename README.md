@@ -9,9 +9,9 @@
 
 [<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/ImTheLastKingMs)
 
-## MY REPO MANAGE:
+## MY REPO MUSIC:
 
-[<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">](https://github.com/Rakaxyxz/RakaManage)
+[<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">](https://github.com/Rakaxyxz/RaXsMusic)
 
 # GROUP SUPPORT:
 
