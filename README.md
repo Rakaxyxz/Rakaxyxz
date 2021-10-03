@@ -1,4 +1,6 @@
 ### MuhammadRakaFiqiansyah
+[<img src="https://telegra.ph/file/4c83c3a99d035598533b8.gif">]
+
 ### Hallo Gess👋 , Nama Saya Muhammad Raka Fiqiansyah|DeadpooL⚡|
 
 ### Umur saya 17 tahun, Asal kota Bekasi Selatan.
