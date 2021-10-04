@@ -37,6 +37,7 @@
 
 </details>
 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rakaxyxz&repo=RaxsMusic&theme=dark) 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rakaxyxz&repo=RakaManage&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Rakaxyxz&repo=RaxFilm&theme=dark) 
 
