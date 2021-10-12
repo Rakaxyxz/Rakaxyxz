@@ -1,11 +1,11 @@
 ### MuhammadRakaFiqiansyah
-[<img src="https://telegra.ph/file/4c83c3a99d035598533b8.gif">]
+<img src="https://telegra.ph/file/4c83c3a99d035598533b8.gif">
 
-### Hallo Gess👋 , Nama Saya Muhammad Raka Fiqiansyah|DeadpooL⚡|
+## Hallo Gess👋 , Nama Saya Muhammad Raka Fiqiansyah|DeadpooL⚡|
 
-### Umur saya 17 tahun, Asal kota Bekasi Selatan.
+## Umur saya 17 tahun, Asal kota Bekasi Selatan.
 
-### Silahkan Saja Saya Masih Pemula🙂
+## Silahkan Saja Saya Masih Pemula🙂
 
 ## My Telegram:
 
@@ -19,6 +19,9 @@
 
 <a href="https://t.me/joinsiniiajg" target="blank"><img src="https://img.shields.io/badge/ALAHSIABOI-green?style=flat&logo=telegram" /></a>
 <a href="https://t.me/thiswirosableng" target="blank"><img src="https://img.shields.io/badge/WIRO SABLENG ALIANSI-black?style=flat&logo=telegram" /></a>
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Rakaxyxz&show_icons=true&theme=radical)
 
 
 </p>
