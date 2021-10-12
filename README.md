@@ -5,7 +5,7 @@
 
 ## Umur saya 17 tahun, Asal kota Bekasi Selatan.
 
-## Silahkan Saja Saya Masih Pemula🙂
+## Gagal Coba Lagi , Jatuh bangkit lagi🙂
 
 ## My Telegram:
 
