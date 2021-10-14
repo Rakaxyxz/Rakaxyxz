@@ -18,7 +18,7 @@
 # GROUP SUPPORT:
 
 <a href="https://t.me/joinsiniiajg" target="blank"><img src="https://img.shields.io/badge/ALAHSIABOI-green?style=flat&logo=telegram" /></a>
-<a href="https://t.me/thiswirosableng" target="blank"><img src="https://img.shields.io/badge/WIRO SABLENG ALIANSI-black?style=flat&logo=telegram" /></a>
+<a href="https://t.me/Mimik_susu1" target="blank"><img src="https://img.shields.io/badge/ALLIANCE MIMIK SUSU-green?style=flat&logo=telegram" /></a>
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rakaxyxz&show_icons=true&theme=radical)
