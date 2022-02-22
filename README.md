@@ -5,11 +5,9 @@
 
 ## Umur saya 17 tahun, Asal kota Bekasi Selatan.
 
-## Gagal Coba Lagi , Jatuh bangkit lagi🙂
-
 ## My Telegram:
 
-[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/ImTheLastKingMs)
+[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/ImTheLastKinggMs)
 
 ## MY REPO MUSIC:
 
